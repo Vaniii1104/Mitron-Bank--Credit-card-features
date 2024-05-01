@@ -35,4 +35,4 @@ RECOMMENDATIONS
 The following is my submission of the project
 Live Dashboard:
 
-https://lnkd.in/g9VGB2cS
+https://app.powerbi.com/groups/me/reports/6b0251bc-55d4-4934-9884-845fdff6bbed/ReportSection0146347da0cd505d5a11?experience=power-bi
